@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-02T15:02:16 WIB" name="Default suite" finished-at="2022-02-02T15:02:20 WIB" duration-ms="3612">
+    <groups>
+    </groups>
+    <test started-at="2022-02-02T15:02:16 WIB" name="Default test" finished-at="2022-02-02T15:02:20 WIB" duration-ms="3612">
+      <class name="com.juaracoding.restassured.Test02_CRUD">
+        <test-method signature="test04_delete()[pri:0, instance:com.juaracoding.restassured.Test02_CRUD@78b729e6]" started-at="2022-02-02T15:02:16 WIB" name="test04_delete" finished-at="2022-02-02T15:02:20 WIB" duration-ms="3546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test04_delete -->
+      </class> <!-- com.juaracoding.restassured.Test02_CRUD -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
